@@ -1,0 +1,32 @@
+.abo{
+   background-image: url(bgimg.jpg);
+   background-size: 100% 100%; 
+  
+}
+.con{
+    background-image: url(bgimg.jpg);
+    background-size: 100% 100%; 
+  
+}
+.contact{
+    color:black;
+}
+.navs{
+    background-color:whitesmoke;
+
+}
+
+
+p{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+@media screen and (max-width: 680px) {
+    .nav{
+       display: inline-block;
+    }
+    img{
+        width:150px;
+        height: 170px
+    }
+}
